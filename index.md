@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to mir4c1e's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mir4c1e/mir4c1e.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionated in programming stuffs. With each passing day, new stuffs are developed and can be applied to our daily life. In recent decades, computer and smartphone are some obvious example. With the existence of new devices, there are always firmware / software to control the deveice and provide services to the user. By learning and utilising programming skills, I can code a tailor-made program to automate my tasks and make my life easier. It is such a great skill set to our life. That's why I want to master my programming skills in different aspects. Currently, I am stuyding Computer Science in HKUST. Hopes that the knowledges learnt in HKUST can be the cornerstone of my future development.
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Software:
+> Java, C / C++, Python
+* Web:
+> HTML, PHP
+* Database:
+> MySQL
 
-```markdown
-Syntax highlighted code block
+### My works
 
-# Header 1
-## Header 2
-### Header 3
+* DCFever_PMChecker (written in Python)
+> access private messages from DCFever (a popular used items trading platform in HK) in terminal.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mir4c1e/mir4c1e.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* MHWIceborne-TimeScheduleChecker (written in Python)
+> check Event schedule of MHW Iceborne in terminal.
