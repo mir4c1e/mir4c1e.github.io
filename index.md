@@ -2,21 +2,15 @@
 
 ### About me
 
-I am passionated in programming stuffs. Currently, I am stuyding Computer Science in HKUST. Hopes that the knowledges learnt in HKUST can be the cornerstone of my future development.
+A computer science graduate from HKUST. I am passionated in programming using Java. 
 
 ### Skills
 
 * Software:
-> Java, C / C++, Python
+> Java, Android apps programming(Java), C++, Python
 * Web:
-> HTML, PHP
+> HTML, JavaScript, NodeJS, PHP
 * Database:
 > MySQL
 
 ### My works
-
-* DCFever_PMChecker (written in Python)
-> access private messages from DCFever (a popular used items trading platform in HK) in terminal.
-
-* MHWIceborne-TimeScheduleChecker (written in Python)
-> check Event schedule of MHW Iceborne in terminal.
