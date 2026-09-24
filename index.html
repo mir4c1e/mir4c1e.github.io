@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mir4c1e</title>
+  <meta name="description" content="mir4c1e — software engineer working with Python, React.js, ClickHouse and MongoDB.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="logo" href="#top">mir4c1e<span class="cursor">_</span></a>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#stack">Stack</a>
+        <a href="#work">Work</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top" class="wrap">
+    <section class="hero">
+      <p class="eyebrow">~/mir4c1e $ whoami</p>
+      <h1>Software engineer building <span class="muted">data-heavy web products.</span></h1>
+      <p class="lead">
+        Mostly Python and React.js on top of ClickHouse and MongoDB,
+        with Redis and Kafka moving the data in between.
+      </p>
+      <div class="actions">
+        <a class="btn btn-solid" href="https://github.com/mir4c1e">GitHub</a>
+        <a class="btn" href="#stack">View stack</a>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <h2 class="label"><span>01</span> About</h2>
+      <div class="about">
+        <p>
+          A computer science graduate from HKUST. I started out with Java and
+          Android, and these days my work centres on Python services, React.js
+          front ends, and the databases behind them — ClickHouse for analytics,
+          MongoDB for documents, Redis for caching and Kafka for streaming.
+        </p>
+      </div>
+    </section>
+
+    <section id="stack" class="section">
+      <h2 class="label"><span>02</span> Stack</h2>
+
+      <div class="grid">
+        <article class="card">
+          <h3>Backend</h3>
+          <p>Services, APIs and data pipelines.</p>
+          <ul class="chips">
+            <li class="chip chip-strong">Python</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Frontend</h3>
+          <p>Interactive UIs and dashboards.</p>
+          <ul class="chips">
+            <li class="chip chip-strong">React.js</li>
+            <li class="chip">JavaScript</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Databases</h3>
+          <p>Analytical and document storage.</p>
+          <ul class="chips">
+            <li class="chip chip-strong">ClickHouse</li>
+            <li class="chip chip-strong">MongoDB</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Infra</h3>
+          <p>Caching and event streaming.</p>
+          <ul class="chips">
+            <li class="chip">Redis</li>
+            <li class="chip">Kafka</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="also">
+        <p class="also-title">Also worked with</p>
+        <ul class="chips">
+          <li class="chip chip-ghost">Java</li>
+          <li class="chip chip-ghost">Android</li>
+          <li class="chip chip-ghost">C++</li>
+          <li class="chip chip-ghost">Node.js</li>
+          <li class="chip chip-ghost">PHP</li>
+          <li class="chip chip-ghost">MySQL</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="work" class="section">
+      <h2 class="label"><span>03</span> Work</h2>
+      <a class="card card-link" href="https://github.com/mir4c1e?tab=repositories">
+        <div>
+          <h3>Repositories</h3>
+          <p>Projects and experiments on GitHub.</p>
+        </div>
+        <span class="arrow" aria-hidden="true">&rarr;</span>
+      </a>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <div class="footer">
+      <span>&copy; <span id="year">2026</span> mir4c1e</span>
+      <a href="#top">Back to top &uarr;</a>
+    </div>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
